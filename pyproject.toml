@@ -49,6 +49,9 @@ numdifftools = "^0.9.41"
 opencv-python = "^4.10.0.82"
 torch-geometric = "^2.5.3"
 pgmpy = "^0.1.25"
+pyro-ppl = "^1.9.1"
+pydot = "^2.0.0"
+graphviz = "^0.20.3"
 
 [tool.black]
 line-length = 90
